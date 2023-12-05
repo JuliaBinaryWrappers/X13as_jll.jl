@@ -1,0 +1,459 @@
+[[X13as]]
+arch = "aarch64"
+git-tree-sha1 = "4d635af7f6459e7016440e246cb6ad5cf4d414d1"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[X13as.download]]
+    sha256 = "a3eafa4c25dfcc9cd144828587aa62ab83d219e8013610bea98bd6f5dbc1dc22"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[X13as]]
+arch = "aarch64"
+git-tree-sha1 = "904e3347fc4e0ff284320290dd7accb170b09f6c"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "0ff9d1d1688696dcff5b9633531cf829baa6843ebcf702e3580e985f4ba09536"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[X13as]]
+arch = "aarch64"
+git-tree-sha1 = "466879b2ff004f5ca2282636f482d08e933b37a1"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "cd116b7a762abc981fa8c0bcbfed113d19f8121a082e408c515c79b7088bbfec"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[X13as]]
+arch = "aarch64"
+git-tree-sha1 = "80c0f3271576042f732509ef763bec58967270f2"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "f81949ff339a92a660a9ca7dc4b4e6f0a3256dc0a42e7c2468399e628d8f2666"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[X13as]]
+arch = "aarch64"
+git-tree-sha1 = "0fa0cd8922964d44221fb3445006d37129f9ce4e"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "5806a7b9c67492d9dcaf67a53751777b5c0197bbad15cea806b459875e68d055"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.aarch64-linux-musl-libgfortran3.tar.gz"
+[[X13as]]
+arch = "aarch64"
+git-tree-sha1 = "7757e83aaae0c2fe561dbf9f967af5a26fd62bae"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "535c3ac48c56f6be6d157e9ace4799c27fde364b8bc2d0be8bdbf1da1c38c745"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.aarch64-linux-musl-libgfortran4.tar.gz"
+[[X13as]]
+arch = "aarch64"
+git-tree-sha1 = "a7230eeda115b9d55bbcffc51f7494fb7e1891e7"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "be39496b2b27064eb94323d11513fd598803252cb9705cf2c4750e40f8c160b3"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.aarch64-linux-musl-libgfortran5.tar.gz"
+[[X13as]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6fa643cccfae597ddc9551c3b9a97df75c5d86ec"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "047ae375c5e3029edf06e09c1a4c71028d431a47127e6173d83717aaed40d951"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[X13as]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "72f508bc9f8c5ed651935cab42ff02f9b079bc7c"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "d4552d5a664343a2d96da45a55905579852dccdb5cd331bf9d4708deb5140ab6"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[X13as]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4aafe6fea3009c710dc7e0687d24d1d6ef14e6ce"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "6f47fdc7ce6e577f60eef671bfbbf2b349e8cefba44c98e6261ffa39d79772be"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[X13as]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b3b761280b46035b0b62e5e2724aad6dd172742f"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "949c0539371c2cec6a4edfa9652a6a0265db7c9554e7ee8d024e64cb94da2d19"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[X13as]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d6dac2470fc9407f1b0f0e0bb53df7081b5bd955"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "6da0bc4c47d0779e5686bf9c764cb495dd9bd60d081e48b51a0ff15f6214f367"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[X13as]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0a76de8f9ff2d74a8538f7255b6b3727c2fff970"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "70ac71f739e0896b168704ef0f5530d77d39ec12141d8dafa4dc545246a6ec30"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[X13as]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1bfcc1456719cb06f3453e990fdee3ac77ff052c"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "30b941e15aaba34a59a6b4621b1571738b46aac882c16d3e36ddf8f0a459ea61"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[X13as]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5b4538c2a4716f1e66df4ac87f358f69d488b2c9"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "cf0174f2084373ee605c95f8b35c64aa44c247eb531ed835a07aef9926cd7180"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[X13as]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f50854cd2903d217a4fdc7092a5cf63d4f2815e1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "4f9a706c590b94339fc9337d7c067329099c2c3585fcffbdbd68dd1c86d60ea7"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[X13as]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "32272b2a4ec178cf67dfc2b7da585ab5fcceefc9"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "f8b69d3b2e5c762a1ade759bbe350a3bebb1e28d5b3f6e127e93571503535d5e"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[X13as]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2b9aaaf82eb2a84df375d20f632a17ed8a402e20"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "997b9969204a224afcd1398971fcd9cacc4fea7b07663a214540e571de54f1ca"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[X13as]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "21c326c490ad4e4632804c8061596456b107bdc5"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "547fb1a901016464fff6aabb2dd693df92b84eb2379140831c7caaa760391620"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[X13as]]
+arch = "i686"
+git-tree-sha1 = "79a9daa7db5e42ad0f6eb7bb06a5a3c0aa997938"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "538cec2a35b0b43dadd3104e2741d0870dfc123a87479d8920d4434845ee120a"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.i686-linux-gnu-libgfortran3.tar.gz"
+[[X13as]]
+arch = "i686"
+git-tree-sha1 = "7e060bf6a091ca12c7c830019726bbffd68b9ad4"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "5b6e673ed7f79a7876186317fb757505995a7ba8465106588893749fe51eb93a"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.i686-linux-gnu-libgfortran4.tar.gz"
+[[X13as]]
+arch = "i686"
+git-tree-sha1 = "0c99db3fc92fb5e666ff6699d031c6cfad4ecd05"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "05b52cbd54869011e3ce40c7b234ffd8d9e4d95c409a5a9937d011724adc344a"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.i686-linux-gnu-libgfortran5.tar.gz"
+[[X13as]]
+arch = "i686"
+git-tree-sha1 = "aa838c6ed01e0e8bb6ca591c9572e7025f0ac70d"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "03439b4a15ce80654d5232cc674f6db1164ab9e3b70c44ba758ba4e70588ba71"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.i686-linux-musl-libgfortran3.tar.gz"
+[[X13as]]
+arch = "i686"
+git-tree-sha1 = "ab1e57c9a1692374333c58529ff0352b217efe16"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "bde1d44047d24cc7c2afa233dc069d0552b044bb3ebf1245dedfc95364ec8b0a"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.i686-linux-musl-libgfortran4.tar.gz"
+[[X13as]]
+arch = "i686"
+git-tree-sha1 = "e1a49a58c6fdc75242b506d1365199ae2dde0dcd"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "7f8dd5c87e9c9a16d5d37d3fdbb88e012a648b0d8457666df9e6da9d32f5371c"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.i686-linux-musl-libgfortran5.tar.gz"
+[[X13as]]
+arch = "i686"
+git-tree-sha1 = "08f2e86a801cc06ce1124012c1c1f15ec7dd64d7"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[X13as.download]]
+    sha256 = "6096a4950b3863d83a331be3627caac7c79fff1c0cfddd79eeb7400b72fcef55"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.i686-w64-mingw32-libgfortran3.tar.gz"
+[[X13as]]
+arch = "i686"
+git-tree-sha1 = "3eed2c06e2c84a620d008a86f4c81554f359f72a"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[X13as.download]]
+    sha256 = "e10d704a113e11e97fdb97a8eecf735ec7ac8b25b919fc6644ca209a7eed6f8a"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.i686-w64-mingw32-libgfortran4.tar.gz"
+[[X13as]]
+arch = "i686"
+git-tree-sha1 = "0a636c3ffb5f4e47dfa31d116338a4252d7b729e"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[X13as.download]]
+    sha256 = "7f4dbf295b3f1aba38c25aa5f0ca58b03f5114c20f9ad8a9ef37f87454548f78"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.i686-w64-mingw32-libgfortran5.tar.gz"
+[[X13as]]
+arch = "powerpc64le"
+git-tree-sha1 = "6631b37cf52e7f96989b7f07adf26e7fe723637b"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "8deb78313c411be095b0ad99f97e1e84cdc7e34657ef85772d8a96fbbe718d56"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[X13as]]
+arch = "powerpc64le"
+git-tree-sha1 = "e96121ad257c7aa358bf345cc8991b781839474b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "cb5e79a41144560f524cfa9105afa590b53080006fe74d08d6421e2efff1fd32"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[X13as]]
+arch = "powerpc64le"
+git-tree-sha1 = "a0c5feb45259349571952824d0f6c5d9fd2532c9"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "d46f91cde4c62cfbaba0eaffa4cd6583123bd2c147478b166e074b239cfd967c"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[X13as]]
+arch = "x86_64"
+git-tree-sha1 = "924a51eb8d4f3ba4e80652bdac60c1107e99bb0c"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[X13as.download]]
+    sha256 = "cc20e8831d51c4090b0fce89ac600c12cfff507c004d6848be8dd05387984856"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[X13as]]
+arch = "x86_64"
+git-tree-sha1 = "3561ccbb39d09be8f647b04633ea2250a623d974"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[X13as.download]]
+    sha256 = "9433f3775eedc73611a6a6391b7151e072ada1bd94b00876ed5e3050c09b9ded"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[X13as]]
+arch = "x86_64"
+git-tree-sha1 = "d75fda2b512633d79bb2f3b6d487086354ca3040"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[X13as.download]]
+    sha256 = "5b5fd66ad7f5d5323582b477b4750579c125a62bed0b1f2f64ea35843dc6994e"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[X13as]]
+arch = "x86_64"
+git-tree-sha1 = "684648dcb60ffd3f4100cb7337cb80e10d08256b"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "264fd3d6940032565a4cf3f01d2844ae3e513fced04925c92f4514dcf002950e"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[X13as]]
+arch = "x86_64"
+git-tree-sha1 = "220845b0547c81857f26622e12a04bd52c1941e3"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "7de60263818ff6cf4b10e62b583cbb037ae2cda1cffb9390142a934bdd455390"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[X13as]]
+arch = "x86_64"
+git-tree-sha1 = "cb5feb7584b59ed6e41ba718faeb2069498bdc35"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "e2c87ef2db7943dfedb3f87012a06d0341ff02dc11083e7084d1706356cab613"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[X13as]]
+arch = "x86_64"
+git-tree-sha1 = "1197ae226e1de9514b79b537b7710c97a1f8db21"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "ccb0b4d0a7eb498a2eeb88f54bb8cff00dea95bcc5d436f73c4069cd427139cb"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.x86_64-linux-musl-libgfortran3.tar.gz"
+[[X13as]]
+arch = "x86_64"
+git-tree-sha1 = "e1f55319aa4c4045f8d8830f417ea18169a68246"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "ef07a90b9a9c7ffe32bcc15dcee57f376b808eebbe6ecb608901ea5d172913ce"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.x86_64-linux-musl-libgfortran4.tar.gz"
+[[X13as]]
+arch = "x86_64"
+git-tree-sha1 = "9800d0d7520a56569c3110363a05c4d05d98a495"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[X13as.download]]
+    sha256 = "e94e45e34bea608fa4626b6bd273e0105c4065536418d1fa8f9323a4391730aa"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.x86_64-linux-musl-libgfortran5.tar.gz"
+[[X13as]]
+arch = "x86_64"
+git-tree-sha1 = "593549e215758870877e2d72e3eeae25f1cdda7e"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[X13as.download]]
+    sha256 = "ac7f999cf2719f9114a9a85337f0fcae195e9f7c9ec16d3853ca6ad3c3e2a723"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[X13as]]
+arch = "x86_64"
+git-tree-sha1 = "43a5f09bde93ec47bc08b9a8cf220832d202e855"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[X13as.download]]
+    sha256 = "e4baad5642b681b42cf4a333437f4eea117a4e7db66e35a786ced42c96dd89fc"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[X13as]]
+arch = "x86_64"
+git-tree-sha1 = "97f3b11b43b5033d851e7f447079eb6c55f9b73a"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[X13as.download]]
+    sha256 = "4865fada5281f49de922ce0803e513e34b19ba63c6d9fa9c82f151a9b3622df1"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[X13as]]
+arch = "x86_64"
+git-tree-sha1 = "286d228f39b595231d9b18d1813483fef914d045"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[X13as.download]]
+    sha256 = "5f3b3354d159c75064a81a1bb6151619cdf494d5b03752a2434fd0b5ffd9309c"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[X13as]]
+arch = "x86_64"
+git-tree-sha1 = "479f399266f0dac50fa3ef5a3a2a900aa6347824"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[X13as.download]]
+    sha256 = "e064cd5f9d88b91adab981c83f89094aa05d1a7d3ceae4dd47ccaf21253ec92f"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[X13as]]
+arch = "x86_64"
+git-tree-sha1 = "77c3d392f9729960f71282e2c6aab81573bd6d80"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[X13as.download]]
+    sha256 = "8273734678aa37562abd9918cc8bafe058b8399def2444042831551b1832ecd6"
+    url = "https://github.com/JuliaBinaryWrappers/X13as_jll.jl/releases/download/X13as-v1.1.60+0/X13as.v1.1.60.x86_64-w64-mingw32-libgfortran5.tar.gz"
